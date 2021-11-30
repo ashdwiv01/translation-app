@@ -1,0 +1,10 @@
+.body {
+  background-color: cadetblue;
+  height: 100%;
+  margin-left: 1em;
+  border-left: 0.1em rgb(154, 242, 245) solid;
+  border-right: 0.1em rgb(154, 242, 245) solid;
+  font: 1em "Fira Sans", sans-serif;
+  color:blanchedalmond;
+
+}

@@ -1,0 +1,12 @@
+.body {
+  height: 20em;
+  width: 100%;
+  padding: 1em;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: rgb(102, 102, 102);  
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1rem;
+  color: white;
+}

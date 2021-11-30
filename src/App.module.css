@@ -1,0 +1,18 @@
+.body h1 {
+  text-align: center;
+  color:bisque;
+}
+.body button {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  background-color: cadetblue;
+  height: 3em;
+  width: 8em;
+  font: 1em "Fira Sans", sans-serif, bold;
+  color: blanchedalmond;
+  border: 0.1em blanchedalmond solid;
+  border-radius: 1em;
+}
+
